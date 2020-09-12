@@ -165,7 +165,7 @@ header {
         width: 100%;
         .header-content-inner {
             h1 {
-                font-weight: 700;
+                font-weight: 900;
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
@@ -296,11 +296,11 @@ header {
 
 // Button Styles
 .btn-default {
-    @include button-variant($theme-dark, white, white);
+    @include button-variant($theme-dark, #FC766AFF, #FC766AFF);
 }
 
 .btn-primary {
-    @include button-variant(white, $theme-primary, $theme-primary);
+    @include button-variant(#FC766AFF, $theme-primary, $theme-primary);
 }
 
 .btn {
