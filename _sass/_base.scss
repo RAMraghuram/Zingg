@@ -157,7 +157,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    color: white;
+    color: #FC766AFF;
     .header-content {
         position: relative;
         text-align: center;
@@ -175,7 +175,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
+                color: rgba(#FC766AFF, .7);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
@@ -228,7 +228,7 @@ header {
     max-width: 650px;
     margin: 0 auto;
     .portfolio-box-caption {
-        color: white;
+        color: #FC766AFF;
         opacity: 0;
         display: block;
         background: rgba( $theme-primary, .9 );
@@ -324,24 +324,24 @@ header {
 // Extras
 // -- Highlight Color Customization
 ::-moz-selection {
-    color: white;
+    color: #FC766AFF;
     text-shadow: none;
     background: $theme-dark;
 }
 
 ::selection {
-    color: white;
+    color: #FC766AFF;
     text-shadow: none;
     background: $theme-dark;
 }
 
 img::selection {
-    color: white;
+    color: #FC766AFF;
     background: transparent;
 }
 
 img::-moz-selection {
-    color: white;
+    color: #FC766AFF;
     background: transparent;
 }
 
