@@ -1,6 +1,6 @@
 # Site settings
-title: Zinzz
-email: Zinzz@gmail.com
+title: Zingg
+email: Zinggelectric@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  We help business to reduce their transport and logistics bill by offering them no time , on-demand vehicle booking srvices along with our
  unmatched prices driven with commertial electrical vehicles.
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: Zinzz
+twitter_username: Zingg
 phone: +91 8328464718  
 
 # Build settings
